@@ -3,26 +3,24 @@ h1 {
   font-weight: 30em;
   line-height: 20 em;
   background-color: green;
+  text-align: center;
 }
 
 h2 {
   font-family: Arial, Helvetica, sans-serif;
   color: coral;
+  text-align: center;
 }
 h3 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  
 }
-h4 {
 
-
-}
 .adoption {
   background-color: blue;
 }
 
 .dog {
-
+background-color: aquamarine;
 
 }
 
@@ -30,5 +28,18 @@ h4 {
 
 float: left;
 width: 50%;
-  
+}
+img {
+  width: 50%;
+  height: 50%;
+}
+.cats h3 {
+  color: red;
+}
+.dogs h3 {
+  color: blue;
+}
+a {
+  color: black;
+  text-align: center;
 }
